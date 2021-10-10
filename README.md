@@ -1,0 +1,1 @@
+Hi, I'm cadavidson98! I'm a graduate student studying Computer Science and Computer Graphics. I enjoy creating projects using C/C++ and OpenGL & Vulkan, and spend most of my time creating renderers and physical simulations.
